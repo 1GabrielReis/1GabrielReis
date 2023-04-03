@@ -1,6 +1,6 @@
-###  Ola ! Eu sou Gabriel Dos Reis 
+###  Ola! Eu sou Gabriel Dos Reis 
 
-- 🔭 Aumente estou procurando em emprego de desenvolvedor Back-end
+- 🔭 Atualmente estou procurando oportunidade para desenvolvedor Back-end
 - 🌱 Estudando linguagem Java 
 - 😄 Pronouns: ele /dele
 
