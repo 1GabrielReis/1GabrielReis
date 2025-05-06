@@ -1,29 +1,38 @@
 ### 👋 Olá! Eu sou Gabriel Dos Reis 
+<br>
 
-- 🔭 Atualmente procurando oportunidade como Desenvolvedor Back-end  
-- 🌱 Estudando a linguagem **Java**  
+- 🎯 Atualmente em busca de colocação na área de TI  
+- 💻 Interesse em atuar como Desenvolvedor Júnior ou Trainee, principalmente no setor Back-end  
+- 🤓 Conhecimentos em **Python** e **Java**  
 - 😄 Pronomes: ele/dele
-
 ---
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/1GabrielReis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1GabrielReis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1GabrielReis&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1GabrielReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1GabrielReis&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 <br>
 
-<div align="center">   
-  <img align="center" alt="Python" height="30" width="40" src="https://user-images.githubusercontent.com/109107473/229392150-cb7ed674-908e-4abc-9751-241382785949.png">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
+
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </div>
 
 ---
 
-### 📱 Contato
-
-<div align="center">
+<div align="left">
   <a href="http://wa.me/5511998114487" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
@@ -34,5 +43,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
 
     
